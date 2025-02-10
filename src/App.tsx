@@ -37,7 +37,7 @@ function App() {
                 )
               }
             >
-              Get Started Free <ArrowRight className="w-5 h-5" />
+              Download Udhari now<ArrowRight className="w-5 h-5" />
             </button>
           </div>
           <div className="flex-1">
