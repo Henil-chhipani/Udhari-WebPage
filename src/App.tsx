@@ -12,6 +12,8 @@ import {
 } from "lucide-react";
 import logo from "./assets/udhari.png";
 
+const appUrl = "https://github.com/Henil-chhipani/udhari/releases/download/raw-release/udhari.apk"
+
 function App() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-indigo-50 to-white">
@@ -32,7 +34,7 @@ function App() {
               className="bg-indigo-600 text-white px-8 py-3 rounded-full font-semibold hover:bg-indigo-700 transition-colors flex items-center gap-2"
               onClick={() =>
                 window.open(
-                  "https://github.com/Henil-chhipani/udhari/releases/download/firstbuild/udhari.apk",
+                  appUrl,
                   "_blank"
                 )
               }
@@ -170,7 +172,7 @@ function App() {
             className="bg-indigo-600 text-white px-8 py-3 rounded-full font-semibold hover:bg-indigo-700 transition-colors inline-flex items-center gap-2"
             onClick={() =>
               window.open(
-                "https://github.com/Henil-chhipani/udhari/releases/download/firstbuild/udhari.apk",
+                appUrl,
                 "_blank"
               )
             }
