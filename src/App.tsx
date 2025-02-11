@@ -12,7 +12,7 @@ import {
 } from "lucide-react";
 import logo from "./assets/udhari.png";
 
-const appUrl = "https://github.com/Henil-chhipani/udhari/releases/download/raw-release/udhari.apk"
+const appUrl = "https://github.com/Henil-chhipani/udhari/releases/download/raw-release-2/udhari.apk"
 
 function App() {
   return (
