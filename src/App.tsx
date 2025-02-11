@@ -113,15 +113,15 @@ function App() {
               <div className="space-y-6">
                 <VoiceFeature
                   title="Create & Delete Notebooks"
-                  description="Simply say 'Create new notebook' or 'Delete current notebook'"
+                  description="Simply say 'Add notebook notebook's name' or 'Delete notebook notebook's name'"
                 />
                 <VoiceFeature
                   title="Navigate Sections"
-                  description="Use voice commands like 'Go to transactions' or 'Show summary'"
+                  description="Use voice commands like 'Open notebook notebook's name'."
                 />
                 <VoiceFeature
-                  title="Quick Transactions"
-                  description="Record transactions by voice: 'Add new transaction for John'"
+                  title="Fill data with voice"
+                  description="Open transection adding screen, simply say commands like 'amount 1250' to set the amount or 'description restaurant payment' to specify the transaction details. When you're ready, just say 'insert' to add the transaction to your list—fast, easy, and hands-free."
                 />
               </div>
             </div>
