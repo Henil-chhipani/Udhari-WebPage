@@ -39,7 +39,7 @@ function App() {
                 )
               }
             >
-              Download Udhari now<ArrowRight className="w-5 h-5" />
+              Download Udhari apk now<ArrowRight className="w-5 h-5" />
             </button>
           </div>
           <div className="flex-1">
@@ -177,7 +177,7 @@ function App() {
               )
             }
           >
-            Download Udhari Now <ArrowRight className="w-5 h-5" />
+            Download Udhari apk Now <ArrowRight className="w-5 h-5" />
           </button>
         </div>
       </section>
