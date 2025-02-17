@@ -15,6 +15,7 @@ import logo from "./assets/udhari.png";
 const appUrl = "https://github.com/Henil-chhipani/udhari/releases/download/raw-release-3/udhari.apk"
 
 
+
 function App() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-indigo-50 to-white">
